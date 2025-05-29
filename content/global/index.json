@@ -5,20 +5,28 @@
       "color": "orange",
       "style": "float"
     },
-    "name": "Tina Starter",
-    "color": "default",
+    "name": "Sarana",
+    "color": "primary",
     "nav": [
       {
-        "href": "/",
-        "label": "Home"
+        "href": "Book",
+        "label": "Book"
       },
       {
-        "href": "/about",
+        "href": "Pricing",
+        "label": "Pricing"
+      },
+      {
+        "href": "/",
         "label": "About"
       },
       {
+        "href": "/schedule",
+        "label": "Schedule"
+      },
+      {
         "href": "/posts",
-        "label": "Blog"
+        "label": "Class Types"
       }
     ]
   },
